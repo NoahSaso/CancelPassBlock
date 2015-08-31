@@ -1,0 +1,10 @@
+Package: com.sassoty.cancelpassblock
+Name: CancelPassBlock
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Password to unlock passcode block
+Maintainer: Sassoty <sassoty@gmail.com>
+Author: Sassoty <sassoty@gmail.com>
+Section: Tweaks
+Depiction: http://repo.sassoty.com/deps.php?pkg=com.sassoty.cancelpassblocksecurely
